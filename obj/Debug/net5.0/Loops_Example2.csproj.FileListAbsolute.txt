@@ -1,0 +1,16 @@
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\bin\Debug\net5.0\Loops_Example2.exe
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\bin\Debug\net5.0\Loops_Example2.deps.json
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\bin\Debug\net5.0\Loops_Example2.runtimeconfig.json
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\bin\Debug\net5.0\Loops_Example2.runtimeconfig.dev.json
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\bin\Debug\net5.0\Loops_Example2.dll
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\bin\Debug\net5.0\ref\Loops_Example2.dll
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\bin\Debug\net5.0\Loops_Example2.pdb
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\Loops_Example2.csproj.AssemblyReference.cache
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\Loops_Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\Loops_Example2.AssemblyInfoInputs.cache
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\Loops_Example2.AssemblyInfo.cs
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\Loops_Example2.csproj.CoreCompileInputs.cache
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\Loops_Example2.dll
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\ref\Loops_Example2.dll
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\Loops_Example2.pdb
+C:\Users\samed\Desktop\Kodluyoruz\Loops_Example2\obj\Debug\net5.0\Loops_Example2.genruntimeconfig.cache
